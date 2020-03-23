@@ -1,0 +1,44 @@
+*{
+  margin: 0em;
+  padding: 0em;
+}
+
+#title{
+    display:flex;
+}
+
+#pokes{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+
+.pokeCard{
+  
+    margin:5px;
+    box-shadow:0px 2px 10px rgb(113, 246, 255);
+    text-align:center;
+    padding:2px;
+    width:180px;
+    cursor: pointer;
+    
+  }
+  
+  .pokeCard:hover{
+    box-shadow:1px 5px 10px rgb(112, 27, 250);
+    transform:scale(1.2)
+  }
+
+ 
+#modalCard {
+    display:flex;
+    flex-wrap:wrap;
+    background: rgb(195, 139, 248);
+    margin:5px;
+    box-shadow:0px 2px 10px rgb(94, 1, 170);
+    text-align:center;
+    padding:2px;
+    width:500px;
+    position: absolute;
+}
+

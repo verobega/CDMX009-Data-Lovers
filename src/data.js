@@ -1,13 +1,8 @@
-// import data from './data/injuries/injuries.js';
-// import data from './data/lol/lol.js';
-// import data from './data/patient/patient.js';
-// import data from './data/pokemon/pokemon.js';
-// import data from './data/rickandmorty/rickandmorty.js';
-// import data from './data/steam/steam.js';
-// import data from './data/steam/worldbank.js';
 
-// esta es una función de ejemplo
+import data from './data/pokemon/pokemon.js';
+import pokemon from './data/pokemon/pokemon.js';
 
-export const example = () => {
-  return 'example';
-};
+const pokemons = data.pokemon
+pokemons.map(pokes => console.log(pokes));
+
+//.num + pokes.img + pokes.id
