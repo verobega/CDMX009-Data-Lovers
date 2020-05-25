@@ -23,6 +23,7 @@ pokemons.forEach(pokemonData=>{
     <p>${'Debilidades: ' + pokemonData.weaknesses}</p>
     <p>${'Altura: ' + pokemonData.height}</p>
     <p>${'Peso: ' + pokemonData.weight}</p>
+    <img src=${pokemonData.img} />
     `
     modalCard.onclick = function(){
       modal.style.display = "block";
