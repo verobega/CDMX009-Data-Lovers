@@ -78,7 +78,7 @@ Para : Ver su información compl
 
 ### Diseño de la Interfaz de Usuario
 
-<img src= "images/Captura de Pantalla 2020-03-22 a la(s) 22.36.06.png">
+<img src= "https://devfcomunidad.slack.com/files/U014EAQNZHA/F017MG118JV/1.png">
 
 
 ### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
