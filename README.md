@@ -78,7 +78,7 @@ Para : Ver su información compl
 
 ### Diseño de la Interfaz de Usuario
 
-<img src= "Captura de Pantalla 2020-03-17 a la(s) 19.23.31.png">
+<img src= "images/Captura de Pantalla 2020-03-17 a la(s) 19.23.31.png">
 
 
 ### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
